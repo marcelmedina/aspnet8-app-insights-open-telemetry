@@ -1,0 +1,1 @@
+# aspnet8-app-insights-open-telemetry
